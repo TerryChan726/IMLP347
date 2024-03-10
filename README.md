@@ -1,2 +1,2 @@
-# IMLP347
+# IMLP
 IMLP Course
